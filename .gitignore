@@ -1,0 +1,5 @@
+dataset/
+dataset_database.xlsx
+venv/
+wsl_venv/
+__pycache__/
