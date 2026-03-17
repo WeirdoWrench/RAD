@@ -9,7 +9,7 @@ A lightweight, real-time computer vision system designed to detect vehicular acc
 Built with edge deployment in mind, this project utilizes a **MobileNetV2-based Convolutional Neural Network (CNN)** optimized for inference efficiency, making it highly effective without requiring massive computational overhead.
 
 ## 🎥 Demonstration
-*(Replace this text with your `![RAD Demo](demo.gif)` once you record your screen!)*
+![RAD Demo](demo.gif)
 
 ## 🧠 Architecture & Engineering Highlights
 This system goes beyond basic frame classification by implementing practical engineering solutions for real-world video analysis:
